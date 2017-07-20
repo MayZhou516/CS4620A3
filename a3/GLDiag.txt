@@ -1,0 +1,16 @@
+TIME:                         Sat Mar 11 20:33:22 EST 2017
+
+=== Java System Properties ===
+java.version:                 1.8.0_60
+java.runtime.name:            Java(TM) SE Runtime Environment
+java.vm.name:                 Java HotSpot(TM) 64-Bit Server VM
+java.vm.version:              25.60-b23
+os.name:                      Mac OS X
+os.version:                   10.12.4
+
+====== OpenGL Properties =====
+GL_VENDOR:                    ATI Technologies Inc.
+GL_VERSION:                   2.1 ATI-1.50.37
+GL_RENDERER:                  AMD Radeon R9 M370X OpenGL Engine
+GL_SHADING_LANGUAGE_VERSION:  1.20
+
